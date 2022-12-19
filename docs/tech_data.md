@@ -5,7 +5,7 @@
 | **Potenza max\. Motore** | 1kW | 1kW |
 | **Tensione di uscita Lampeggiante** |	230Vac | 230Vac |
 | **Potenza max\. Lampeggiante** | 40W | 40W |
-| **Uscita relè Ausiliario AUX**|	\-	|Contatto pulito|
+| **Uscita relè Ausiliario AUX**|	\-	|Contatto pulito (Fino a 5 A - 250 V)|
 | **Tensione di uscita per servizi**	| 12 Vac | 12 Vac |
 | **Tempo lavoro	Programmabile** | \(3s \- 30s\) | \(3s \- 30s\) |
 | **Tempo richiusura automatica	Programmabile** | \(max\. 240s\) | \(max\. 240s\) |
